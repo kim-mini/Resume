@@ -1,7 +1,7 @@
-###  경력 기술서
+#  경력 기술서
 
 
-### Experiences
+## Experiences
 ---
 
 Company | Entry Date | Leave Date | Team
@@ -11,10 +11,10 @@ Company | Entry Date | Leave Date | Team
 피터팬 창작공작소| 2016-11    | 2018-10    | 후반 디자인
 
 
-### Project
+## Project
 ---
 
-#### 1. 마이크로칩 외관 검사기 / 마이크로칩 테핑기 (국내/외)
+### 1. 마이크로칩 외관 검사기 / 마이크로칩 테핑기 (국내/외)
 
 외관 검사기 : 반도체 및 전자부품의 외관 불량을 자동 검출하는 검사 설비이며 고속 이미지 처리 및 실시간 판정으로 양불 처리하는 설비
 
@@ -43,7 +43,8 @@ Company | Entry Date | Leave Date | Team
 	•	실시간 데이터 처리 및 검사 속도 최적화
 	•	FPGA 보드를 활용한 고속 검사
 	•	분해능을 활용하여 제품 치수 검사
-	•	1축 모터 제어
+	•	1축 모터 제어 - 외관 검사기
+	•	2축 모터 제어 - 테핑기
 	•	장비 상태 모니터링 및 예외 처리 로직
 
 성과 및 기여
@@ -53,15 +54,17 @@ Company | Entry Date | Leave Date | Team
 	•	설비 유지보수 대응 시간 단축
 	•	작업자 작업 편의성 개선 (UI/운영 기능 개선)
 
-![image](https://github.com/user-attachments/assets/c1e53884-9f4d-45a0-b9f7-9ec30443691d)
-![image](https://github.com/user-attachments/assets/86910f29-016c-4158-9d56-dc4ecbbaf1c4)
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/c1e53884-9f4d-45a0-b9f7-9ec30443691d" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/86910f29-016c-4158-9d56-dc4ecbbaf1c4" />
+
 
 
 
 
 ⸻
 
-#### 2. PiG 불량 선별기
+### 2. PiG 불량 선별기
 
 PiG(Phosphor in Glass)을 검사하는 자동화 설비
 

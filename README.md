@@ -53,6 +53,8 @@ Company | Entry Date | Leave Date | Team
 	•	오검/미검 감소를 통한 품질 신뢰성 확보
 	•	설비 유지보수 대응 시간 단축
 	•	작업자 작업 편의성 개선 (UI/운영 기능 개선)
+	•	자동 조명 기능 추가하여 검사 컨디션  
+	
 
 
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/c1e53884-9f4d-45a0-b9f7-9ec30443691d" />
@@ -101,3 +103,6 @@ PiG(Phosphor in Glass)을 검사하는 자동화 설비
 
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/9704e173-832d-4808-aeb1-a17f81206b5c" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/341649d9-ff8e-44f7-a784-dfa20b523e12" />
+
+
+

@@ -67,7 +67,7 @@ Company | Entry Date | Leave Date | Team
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/c1e53884-9f4d-45a0-b9f7-9ec30443691d" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/86910f29-016c-4158-9d56-dc4ecbbaf1c4" />
 
-
+출처 : 한울 홈페이지
 
 
 
@@ -116,10 +116,6 @@ PiG(Phosphor in Glass)을 검사하는 자동화 설비
 	•	고객사 작업 편의성 개선 및 시간 단축 (기존 작업자 검사시간 대비 1/10 가량으로 줄어듬)
 	
 
-
-
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/9704e173-832d-4808-aeb1-a17f81206b5c" />
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/341649d9-ff8e-44f7-a784-dfa20b523e12" />
 
 
 ⸻
